@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Stef-van-Stipdonk
-- 👀 I’m interested in the development of dbms systems, query planners, database performance tuning and neo4j.
+- 👀 I’m interested in the development of dbms systems, query planners and database performance tuning.
 - 🌱 I'm currently building a database storage engine using a LSM-Tree storage structure.
