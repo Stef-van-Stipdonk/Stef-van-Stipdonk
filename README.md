@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Stef-van-Stipdonk
-- 👀 I’m interested in the development of dbms systems, query planners and database performance tuning.
-- 🌱 I'm currently building a database storage engine using a LSM-Tree storage structure.
+- In love with understanding the deeper crevices of software, to write kickass code!
